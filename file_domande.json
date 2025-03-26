@@ -1,0 +1,584 @@
+[
+        {
+            "argomento": "veicoli",
+            "img": "",
+            "domanda": "L’autovettura è un veicolo a motore con quattro ruote, destinato al trasporto di massimo nove persone, compreso il conducente",
+            "risposta": "True"
+        },
+        {
+            "argomento": "veicoli",
+            "img": "",
+            "domanda": "L’autovettura non può avere più di nove posti, compreso il conducente",
+            "risposta": "True"
+        },
+        {
+            "argomento": "veicoli",
+            "img": "",
+            "domanda": "Si definiscono autovetture tutti i veicoli a motore che hanno la trazione posteriore",
+            "risposta": "False"
+        },
+        {
+            "argomento": "veicoli",
+            "img": "",
+            "domanda": "Le autovetture sono soggette a revisione ogni cinque anni",
+            "risposta": "False"
+        },
+        {
+            "argomento": "strada",
+            "img": "",
+            "domanda": "La strada può essere suddivisa in carreggiate",
+            "risposta": "True"
+        },
+        {
+            "argomento": "strada",
+            "img": "",
+            "domanda": "La strada può comprendere le piste ciclabili",
+            "risposta": "True"
+        },
+        {
+            "argomento": "strada",
+            "img": "",
+            "domanda": "La strada non comprende i marciapiedi",
+            "risposta": "False"
+        },
+        {
+            "argomento": "strada",
+            "img": "",
+            "domanda": "Nelle autostrade possono circolare tutti i motocicli e i ciclomotori",
+            "risposta": "False"
+        },
+        {
+            "argomento": "strada",
+            "img": "",
+            "domanda": "Il passaggio a livello è un cavalcavia ferroviario o tranviario",
+            "risposta": "False"
+        },
+        {
+            "argomento": "strada",
+            "img": "",
+            "domanda": "L’isola di traffico serve per il transito dei pedoni",
+            "risposta": "False"
+        },
+        {
+            "argomento": "strada",
+            "img": "",
+            "domanda": "Il salvagente, posto in corrispondenza di attraversamenti pedonali, serve anche al riparo o alla sosta dei pedoni che attraversano la strada",
+            "risposta": "True"
+        },
+        {
+            "argomento": "strada",
+            "img": "",
+            "domanda": "Il segnale raffigurato è un segnale di pericolo",
+            "risposta": "True"
+        },
+        {
+            "argomento": "strada",
+            "img": "",
+            "domanda": "In presenza del segnale raffigurato è vietato il sorpasso sul tratto in salita, se la strada è a doppio senso di circolazione con due sole corsie",
+            "risposta": "True"
+        },
+        {
+            "argomento": "pericolo",
+            "img": "assets/pericolo/pan_dist.png",
+            "domanda": "I pannelli raffigurati hanno tante barre diagonali quanti sono i binari del passaggio a livello",
+            "risposta": "False"
+        },
+        {
+            "argomento": "pericolo",
+            "img": "assets/pericolo/curva_pericolosa_destra.png",
+            "domanda": "In presenza del segnale raffigurato, posto su strada a doppio senso di circolazione e con due sole corsie, si deve circolare il più possibile vicino al margine destro",
+            "risposta": "True"
+        },
+        {
+            "argomento": "pericolo",
+            "img": "assets/pericolo/attraversamento_pedonale.png",
+            "domanda": "In presenza del segnale raffigurato non è consentito sorpassare i veicoli che rallentano per far attraversare i pedoni",
+            "risposta": "True"
+        },
+        {
+            "argomento": "pericolo",
+            "img": "assets/pericolo/attraversamento_pedonale.png",
+            "domanda": "In presenza del segnale raffigurato è obbligatorio suonare il clacson se vi sono pedoni che attraversano sulle strisce pedonali",
+            "risposta": "False"
+        },
+        {
+            "argomento": "pericolo",
+            "img": "assets/pericolo/discesa_pericolosa.png",
+            "domanda": "Il segnale raffigurato è posto prima di una discesa pericolosa",
+            "risposta": "True"
+        },
+        {
+            "argomento": "pericolo",
+            "img": "assets/pericolo/discesa_pericolosa.png",
+            "domanda": "Il segnale raffigurato preannuncia una salita da percorrere con marcia adeguatamente bassa",
+            "risposta": "False"
+        },
+        {
+            "argomento": "precedenza",
+            "img": "assets/precedenza/fine_dir_precedenza.png",
+            "domanda": "Il segnale raffigurato indica che dopo di esso si dovrà, di norma, dare la precedenza a destra",
+            "risposta": "True"
+        },
+        {
+            "argomento": "precedenza",
+            "img": "assets/divieto/segn_acustiche.png",
+            "domanda": "Il segnale raffigurato indica la fine del divieto di segnalazioni acustiche",
+            "risposta": "False"
+        },
+        {
+            "argomento": "obbligo",
+            "img": "assets/obbligo/dir_cons_dritto_destra.png",
+            "domanda": "Il segnale raffigurato indica che è consentito svoltare a destra",
+            "risposta": "True"
+        },
+        {
+            "argomento": "obbligo",
+            "img": "assets/obbligo/lim_min_30.png",
+            "domanda": "Il segnale raffigurato consente di marciare alla velocità di 20 km/h",
+            "risposta": "False"
+        },
+        {
+            "argomento": "indicazione",
+            "img": "assets/indicazione/strada_chiusa_dritto.png",
+            "domanda": "Il segnale raffigurato vieta la sosta",
+            "risposta": "False"
+        },
+        {
+            "argomento": "indicazione",
+            "img": "assets/indicazione/ss_2.png",
+            "domanda": "Il segnale raffigurato indica una strada sterrata",
+            "risposta": "False"
+        },
+        {
+            "argomento": "temporanei e complementari",
+            "img": "assets/temporanei_complementari/delineatori_doppio_senso.png",
+            "domanda": "I delineatori raffigurati sono utili solo nelle ore notturne",
+            "risposta": "False"
+        },
+        {
+            "argomento": "temporanei e complementari",
+            "img": "assets/temporanei_complementari/pass_obbl_veicoli_operativi.png",
+            "domanda": "Il segnale raffigurato può essere posto sui veicoli per lavori stradali, fermi o in lento movimento",
+            "risposta": "True"
+        },
+        {
+            "argomento": "pannelli integrativi",
+            "img": "assets/pannelli_integrativi/pann_int_neve.png",
+            "domanda": "Il pannello integrativo raffigurato invita ad usare le luci di emergenza durante la sosta",
+            "risposta": "False"
+        },
+        {
+            "argomento": "pannelli integrativi",
+            "img": "assets/pannelli_integrativi/pann_int_coda.png",
+            "domanda": "Il pannello integrativo raffigurato indica la possibilità di trovare veicoli fermi in colonna",
+            "risposta": "True"
+        },
+        {
+            "argomento": "precedenze",
+            "img": "assets/precedenze/precedenza_607.png",
+            "domanda": "Nell’intersezione in figura il veicolo M ha la precedenza perché è in servizio pubblico",
+            "risposta": "False"
+        },
+        {
+            "argomento": "precedenze",
+            "img": "assets/precedenze/precedenza_607.png",
+            "domanda": "Nell’intersezione in figura i veicoli transitano nel seguente ordine: T, P, M",
+            "risposta": "True"
+        },
+        {
+            "argomento": "precedenze",
+            "img": "assets/precedenze/precedenza_614.png",
+            "domanda": "Nell’incrocio rappresentato nella figura il veicolo T passa per ultimo",
+            "risposta": "True"
+        },
+        {
+            "argomento": "precedenze",
+            "img": "assets/precedenze/precedenza_614.png",
+            "domanda": "Nell’incrocio rappresentato nella figura il veicolo R passa per primo",
+            "risposta": "True"
+        },
+        {
+            "argomento": "precedenze",
+            "img": "assets/precedenze/precedenza_617.png",
+            "domanda": "Nell’incrocio rappresentato nella figura il conducente del veicolo R deve dare la precedenza al veicolo N",
+            "risposta": "True"
+        },
+        {
+            "argomento": "precedenze",
+            "img": "assets/precedenze/precedenza_617.png",
+            "domanda": "Nell’incrocio rappresentato nella figura il conducente del veicolo R deve dare la precedenza al veicolo A",
+            "risposta": "False"
+        },
+        {
+            "argomento": "precedenze",
+            "img": "assets/precedenze/precedenza_633.png",
+            "domanda": "Nell’intersezione di figura l’ordine di transito dei veicoli è: N, A, R",
+            "risposta": "True"
+        },
+        {
+            "argomento": "precedenze",
+            "img": "assets/precedenze/precedenza_633.png",
+            "domanda": "Nell’intersezione di figura l’ordine di precedenza dei veicoli è: N, R, A",
+            "risposta": "False"
+        },
+        {
+            "argomento": "sorpasso",
+            "img": "",
+            "domanda": "La pericolosità del sorpasso nasce dalla possibilità di urtare altri veicoli che, davanti o dietro, intendano compiere la stessa manovra",
+            "risposta": "True"
+        },
+        {
+            "argomento": "sorpasso",
+            "img": "",
+            "domanda": "È vietato il sorpasso se il veicolo da superare si è fermato per dare precedenza ai pedoni, anche fuori dagli attraversamenti pedonali",
+            "risposta": "True"
+        },
+        {
+            "argomento": "sorpasso",
+            "img": "",
+            "domanda": "È pericoloso effettuare il rientro dopo il sorpasso se la manovra costringe i veicoli sorpassati a frenare bruscamente",
+            "risposta": "True"
+        },
+        {
+            "argomento": "sorpasso",
+            "img": "",
+            "domanda": "Prima di rientrare nella corsia di destra dopo il sorpasso, occorre controllare la posizione del veicolo sorpassato attraverso gli specchietti retrovisori",
+            "risposta": "True"
+        },
+        {
+            "argomento": "sorpasso",
+            "img": "",
+            "domanda": "Il sorpasso è consentito in caso di scarsa visibilità purché si lampeggi durante la manovra",
+            "risposta": "False"
+        },
+        {
+            "argomento": "sorpasso",
+            "img": "",
+            "domanda": "Il sorpasso è vietato in curva anche se la strada è a due carreggiate separate",
+            "risposta": "False"
+        },
+        {
+            "argomento": "sorpasso",
+            "img": "",
+            "domanda": "Il sorpasso è vietato in curva anche se la strada è ad almeno due corsie per senso di marcia",
+            "risposta": "False"
+        },
+        {
+            "argomento": "sorpasso",
+            "img": "",
+            "domanda": "È consentito il sorpasso di veicoli fermi ai passaggi a livello senza barriere se il treno è distante",
+            "risposta": "False"
+        },
+        {
+            "argomento": "sorpasso",
+            "img": "",
+            "domanda": "È sempre consentito superare un veicolo a due ruote",
+            "risposta": "False"
+        },
+        {
+            "argomento": "sorpasso",
+            "img": "",
+            "domanda": "È vietato il sorpasso nelle strade a senso unico",
+            "risposta": "False"
+        },
+        {
+            "argomento": "sorpasso",
+            "img": "",
+            "domanda": "È vietato il sorpasso di veicoli della polizia",
+            "risposta": "False"
+        },
+        {
+            "argomento": "sorpasso",
+            "img": "",
+            "domanda": "In autostrada si può sorpassare indifferentemente a destra e a sinistra",
+            "risposta": "False"
+        },
+        {
+            "argomento": "sorpasso",
+            "img": "",
+            "domanda": "Il sorpasso tra motocicli si può effettuare sia a destra che a sinistra",
+            "risposta": "False"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "L’arresto è l’interruzione della marcia del veicolo dovuta ad esigenze della circolazione, come ad esempio ad un semaforo rosso",
+            "risposta": "True"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "La fermata di un veicolo è vietata se i passeggeri che scendono sono più di uno",
+            "risposta": "False"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "La fermata non deve arrecare intralcio alla circolazione",
+            "risposta": "True"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "Durante la fermata il conducente deve essere sempre presente e pronto a riprendere la marcia",
+            "risposta": "True"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "Durante la fermata il conducente può allontanarsi per brevissimo tempo prima di riprendere la marcia",
+            "risposta": "False"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "La fermata di un veicolo è sempre consentita per chiedere informazioni agli agenti del traffico",
+            "risposta": "False"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "Durante la fermata il conducente, se si allontana, deve lasciare il veicolo con il motore acceso",
+            "risposta": "False"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "In caso di fermata, ove non esista marciapiede rialzato, il conducente deve lasciare uno spazio non inferiore ad un metro per il transito dei pedoni",
+            "risposta": "True"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "Fuori dei centri abitati, il conducente, in caso di fermata, deve collocare, se possibile, il veicolo fuori della carreggiata",
+            "risposta": "True"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "La sosta è la sospensione della marcia del veicolo protratta nel tempo, con possibilità del conducente di allontanarsi",
+            "risposta": "True"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "Durante la sosta il conducente può allontanarsi dal veicolo",
+            "risposta": "True"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "Durante la sosta nelle ore notturne il conducente deve lasciare in ogni caso accese le luci di posizione",
+            "risposta": "False"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "Durante la sosta il conducente non può allontanarsi dal veicolo per più di tre ore",
+            "risposta": "False"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "La fermata è vietata sui dossi",
+            "risposta": "True"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "La fermata di breve durata è consentita anche in curva",
+            "risposta": "False"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "La fermata è vietata allo sbocco dei passi carrabili",
+            "risposta": "False"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "La fermata è vietata in prossimità e in corrispondenza di segnali stradali verticali in modo da occultarne la vista",
+            "risposta": "True"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "La fermata è vietata in prossimità e in corrispondenza di segnali semaforici in modo da occultarne la vista",
+            "risposta": "True"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "La sosta è vietata nelle gallerie, salvo diversa segnalazione",
+            "risposta": "True"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "La sosta è vietata sui dossi",
+            "risposta": "True"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "La sosta ma non la fermata è vietata sugli attraversamenti pedonali",
+            "risposta": "False"
+        },
+        {
+            "argomento": "arresto, fermata e sosta",
+            "img": "",
+            "domanda": "La sosta degli autoveicoli in doppia fila è consentita per pochi minuti, azionando le luci di emergenza",
+            "risposta": "False"
+        },
+        {
+            "argomento": "documenti",
+            "img": "",
+            "domanda": "La revoca della patente è disposta quando il titolare guida nonostante abbia la patente sospesa",
+            "risposta": "True"
+        },
+        {
+            "argomento": "documenti",
+            "img": "",
+            "domanda": "La patente di categoria B1 abilita a condurre i motocicli (con o senza carrozzetta) di cilindrata fino a 125 cm3, di potenza non superiore a 11 kW e con rapporto potenza/peso non superiore a 0,1kW/kg",
+            "risposta": "False"
+        },
+        {
+            "argomento": "documenti",
+            "img": "",
+            "domanda": "La patente di categoria B abilita a condurre gli autoveicoli di massa massima autorizzata non superiore a 3,5 tonnellate destinati al trasporto di non più di otto persone oltre al conducente",
+            "risposta": "True"
+        },
+        {
+            "argomento": "documenti",
+            "img": "",
+            "domanda": "La sospensione della patente è una sanzione accessoria che deriva dalla violazione di alcuni articoli del codice della strada",
+            "risposta": "True"
+        },
+        {
+            "argomento": "documenti",
+            "img": "",
+            "domanda": "La revoca della patente è disposta quando il conducente guida con patente scaduta di validità",
+            "risposta": "False"
+        },
+        {
+            "argomento": "documenti",
+            "img": "",
+            "domanda": "La revoca della patente può essere disposta quando il conducente guida senza averla con sè",
+            "risposta": "False"
+        },
+        {
+            "argomento": "incidenti",
+            "img": "",
+            "domanda": "Quando ad un incrocio urbano, al segnale di via libera, il veicolo che precede tarda a riprendere la marcia, è opportuno attendere pazientemente la ripresa della marcia",
+            "risposta": "True"
+        },
+        {
+            "argomento": "incidenti",
+            "img": "",
+            "domanda": "L’assunzione di alcool rende la guida più sicura, più allegra e meno noiosa",
+            "risposta": "False"
+        },
+        {
+            "argomento": "incidenti",
+            "img": "",
+            "domanda": "Per il conducente il campo di visibilità può essere ridotto sia da uno dei poggiatesta sia da elementi della carrozzeria della propria autovettura che possono impedire accidentalmente l’avvistamento di altri utenti della strada",
+            "risposta": "True"
+        },
+        {
+            "argomento": "incidenti",
+            "img": "",
+            "domanda": "Quando, in un giorno di pioggia, si deve transitare su rotaie del tram o su tombini presenti sulla carreggiata stradale a bordo di un veicolo a due ruote, è bene farlo in impennata in modo da non farvi transitare sopra la ruota anteriore che è quella direttrice",
+            "risposta": "True"
+        },
+        {
+            "argomento": "inquinamento",
+            "img": "",
+            "domanda": "L’inquinamento dell’aria prodotto dai veicoli aumenta se gli iniettori sono difettosi",
+            "risposta": "True"
+        },
+        {
+            "argomento": "inquinamento",
+            "img": "",
+            "domanda": "L’inquinamento dell’aria prodotto dai veicoli a motore può diminuire se si circola sempre con marce basse",
+            "risposta": "False"
+        },
+        {
+            "argomento": "inquinamento",
+            "img": "",
+            "domanda": "Per diminuire l’inquinamento dell’aria provocato dai veicoli, bisogna controllare spesso la frizione e il differenziale",
+            "risposta": "False"
+        },
+        {
+            "argomento": "inquinamento",
+            "img": "",
+            "domanda": "Mantenendo il più possibile costante la velocità, si riduce il consumo di carburante",
+            "risposta": "True"
+        },
+        {
+            "argomento": "inquinamento",
+            "img": "",
+            "domanda": "Il consumo di carburante aumenta con l’aumentare del peso del veicolo",
+            "risposta": "True"
+        },
+        {
+            "argomento": "inquinamento",
+            "img": "",
+            "domanda": "Diminuendo opportunamente la velocità diminuisce il consumo di carburante",
+            "risposta": "True"
+        },
+        {
+            "argomento": "inquinamento",
+            "img": "",
+            "domanda": "Collocare i bagagli sul tetto del veicolo comporta un maggior consumo di carburante",
+            "risposta": "True"
+        },
+        {
+            "argomento": "inquinamento",
+            "img": "",
+            "domanda": "Tenere aperto il tettuccio scorrevole del veicolo comporta un minor consumo di carburante",
+            "risposta": "False"
+        },
+        {
+            "argomento": "inquinamento",
+            "img": "",
+            "domanda": "L’uso del climatizzatore comporta minor consumo di carburante",
+            "risposta": "False"
+        },
+        {
+            "argomento": "elementi veicolo",
+            "img": "",
+            "domanda": "Le sospensioni di un veicolo a motore sono poste tra il telaio e le ruote",
+            "risposta": "True"
+        },
+        {
+            "argomento": "elementi veicolo",
+            "img": "",
+            "domanda": "Le sospensioni di un veicolo a motore servono a garantire un buon confort di marcia",
+            "risposta": "True"
+        },
+        {
+            "argomento": "elementi veicolo",
+            "img": "",
+            "domanda": "Un veicolo con sospensioni inefficienti ha problemi di tenuta di strada",
+            "risposta": "True"
+        },
+        {
+            "argomento": "elementi veicolo",
+            "img": "",
+            "domanda": "Il sovraccarico del veicolo può comportare la rottura delle sospensioni",
+            "risposta": "True"
+        },
+        {
+            "argomento": "elementi veicolo",
+            "img": "",
+            "domanda": "In un veicolo, gli ammortizzatori scarichi provocano un anomalo funzionamento del motore",
+            "risposta": "False"
+        },
+        {
+            "argomento": "elementi veicolo",
+            "img": "",
+            "domanda": "Gli ammortizzatori di un veicolo, se sono del tipo a circuito sigillato, non necessitano di manutenzione",
+            "risposta": "False"
+        }
+]
