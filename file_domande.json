@@ -67,13 +67,13 @@
         },
         {
             "argomento": "strada",
-            "img": "",
+            "img": "assets/pericolo/curva_pericolosa_destra.png",
             "domanda": "Il segnale raffigurato è un segnale di pericolo",
             "risposta": "True"
         },
         {
             "argomento": "strada",
-            "img": "",
+            "img": "assets/pericolo/dosso.png",
             "domanda": "In presenza del segnale raffigurato è vietato il sorpasso sul tratto in salita, se la strada è a doppio senso di circolazione con due sole corsie",
             "risposta": "True"
         },
